@@ -1,0 +1,9 @@
+ucimlrepo
+streamlit
+pandas 
+numpy 
+scikit-learn
+ucimlrepo
+
+
+ucimlrepo streamlit pandas numpy scikit-learn 
